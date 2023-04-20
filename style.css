@@ -152,3 +152,11 @@ header.p-section {
 .no-bullets {
   list-style-type: none;
 }
+
+.resume {
+  object-fit: contain;
+  height: 850px;
+  padding: 0;
+  margin-bottom: 20px;
+  border: 1px solid black;
+}
